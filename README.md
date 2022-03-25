@@ -1,2 +1,2 @@
-# mono-repo-starter
+# [name]
 Mono project repository starter template
