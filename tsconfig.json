@@ -24,13 +24,11 @@
   },
   "typedocOptions": {
     "entryPoints": [
-      "packages/algorithm/src/index.ts",
-      "packages/types/src/index.ts",
-      "packages/utils/src/index.ts"
+      "packages/index/src/index.ts",
     ],
     "out": "docs",
     "theme": "category"
   },
   "include": ["packages/*/src/"],
-  "exclude": ["packages/*/dist", "packages/*/__test__"]
+  "exclude": ["packages/*/dist", "packages/*/__tests__"]
 }
