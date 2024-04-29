@@ -27,7 +27,7 @@
     "@typescript-eslint/parser": "^5.13.0",
     "bumpp": "^7.1.1",
     "chalk": "^5.0.0",
-    "eslint": "^8.10.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-tsdoc": "^0.2.14",
